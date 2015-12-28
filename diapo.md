@@ -41,7 +41,7 @@
 
 # Notes du rapport pour aider 
 
-'''
+```
 
 \section{Introduction}
 % Très général sur le besoin de travailler en équipe, en live avec beaucoup
@@ -158,5 +158,4 @@ De plus en plus d'éditeurs collaboratifs sont créés de nos jours de par la de
 % distinguer lien CRATE et lien externe
 % ne pas ouvrir plusieurs fois le même document
 
-
-'''
+```
